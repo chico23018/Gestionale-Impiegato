@@ -28,12 +28,12 @@ public class Prueva {
 //		
 //		impdao.InserireImpiegato(imp2);
 //		
-		Impiegato imp3 = new Impiegato();
-		imp3.setMatricola(8);
-		imp3.setNome("Emilia");
-		imp3.setCognome("Acosta");
-		imp3.setCodiceFiscale("cstml85");
-		impdao.udpateImpiegato(imp3);
+		//Impiegato imp3 = new Impiegato();
+		//imp3.setMatricola(8);
+		//imp3.setNome("Emilia");
+		//imp3.setCognome("Acosta");
+		//imp3.setCodiceFiscale("cstml85");
+		impdao.FindImpiegato("mzrml85");
 //		impdao.FindImpiegato("mzrml85");
 //		impdao.deleteImpiegato("mzrml85");
 		
