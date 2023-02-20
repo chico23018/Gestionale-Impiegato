@@ -1,0 +1,14 @@
+com\dao\StoricoDao.class
+com\dao\ImpiegatoDao.class
+com\model\Ruolo.class
+com\dao\imp\ImpiegatoDaoImpl.class
+com\conezione\jpa.class
+com\spring\SpringWebConfig.class
+com\dao\imp\ImpiegatoDaoImpl1.class
+com\dao\RuoloDao.class
+com\model\Storico.class
+com\dao\imp\RuoloDaoImp.class
+com\model\Impiegato.class
+com\dao\imp\StoricoDaoImpl.class
+com\dao\imp\Prova.class
+com\spring\MyWebInitializer.class
